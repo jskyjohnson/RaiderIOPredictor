@@ -1,0 +1,5 @@
+Blizzard API Key Stuff,
+
+Client ID: 6eb5ea07725d4e5cadb032aa527e2ba5
+
+Client Secret: SzPEjXMl44IUkjP5v3vKkEDsBFDxLjjI
