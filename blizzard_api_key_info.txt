@@ -1,3 +1,12 @@
+Blizzard API link:
+https://develop.battle.net/documentation/api-reference/world-of-warcraft-game-data-api
+
+Raider.IO API link:
+
+https://raider.io/api
+
+
+
 Blizzard API Key Stuff,
 
 Client ID: 6eb5ea07725d4e5cadb032aa527e2ba5
