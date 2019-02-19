@@ -5,7 +5,7 @@ api_token="USHWZwqq1JLNygdPyusoGANaKFYQjsurIr"
 
 
 #Connected Realm ID loop
-for connectedrealmid in {10,11,12}
+while read connectedrealmid
 do
 mkdir -p ../data/MythicLeaderboards/${connectedrealmid}
 
@@ -28,4 +28,4 @@ fi
 
 done
 done
-done
+done < USRealmIndex.txt
