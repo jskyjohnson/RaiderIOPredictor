@@ -1,12 +1,13 @@
 #!/bin/bash
-api_token="USHWZwqq1JLNygdPyusoGANaKFYQjsurIr"
+api_token="USDDq082Bf7Wf57Vnzc7wJhM18taAr9Tlg"
 
 #Region Loop
 
 
 #Connected Realm ID loop
-while read connectedrealmid
+while read connectedrealmid;
 do
+echo $connectedrealmid
 mkdir -p ../data/MythicLeaderboards/${connectedrealmid}
 
 #Dungon ID loop
@@ -28,4 +29,5 @@ fi
 
 done
 done
-done < USRealmIndex.txt
+
+done <  USRealmIndex.txt
