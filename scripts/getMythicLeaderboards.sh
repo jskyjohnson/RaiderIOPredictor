@@ -30,4 +30,4 @@ fi
 done
 done
 
-done <  USRealmIndex.txt
+done <  realmlist.txt
