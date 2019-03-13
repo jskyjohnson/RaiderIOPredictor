@@ -1,5 +1,5 @@
 #!/bin/bash
-api_token="USDDq082Bf7Wf57Vnzc7wJhM18taAr9Tlg"
+api_token="US31XVbC1yJNK5aGNI7ZpJvmKBWlPKNc8y"
 
 #Region Loop
 
